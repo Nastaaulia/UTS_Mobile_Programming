@@ -23,10 +23,10 @@ NIM	: 1137050164
    android:layoutGravity="center"
 
 6. 1)- width di set match parent agar panjangnya menyesuaikan parent
-     - height yang bernilai 0dp itu diwakilkan oleh weight yang bernilai 1 , fungsinya adalah untuk membagi layout dalam ukuran yang sama        pada 1 layar
+     - height yang bernilai 0dp itu diwakilkan oleh weight yang bernilai 1, fungsinya untuk membagi layout dalam ukuran yang sama                pada 1 layar
      - warna dari text seluruhnya berwarna putih
      - background di set bewarna hijau tosca (#009688)
-     - ukuran text pertama dan kedua sama besar , sedangkan text ketiga lebih kecil
+     - ukuran text pertama dan kedua sama besar, sedangkan text ketiga lebih kecil
 
    2)- width di set 0 dp itu karena height yang di set match parent telah mewakili untuk membagi layout dengan ukuran yang sama secara            vertical 
      - warna text seluruhnya bewarna putih
